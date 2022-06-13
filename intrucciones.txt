@@ -13,6 +13,7 @@ git push origin master
 git config --global user.email "josebsanchez@birt.eus"
 git config --global user.name "j5anchez"
 
+command->para ejecutar sentencias sql
 
 tableAdapter, dataGridView
 
